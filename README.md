@@ -1,0 +1,3 @@
+# MITx: 6.00.1x: Introduction to Computer Science and Programming Using Python
+
+A place to keep my completed coursework
